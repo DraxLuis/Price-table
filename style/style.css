@@ -16,7 +16,9 @@ body{
 }
 
 .ctn-p{
-    display: flex;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
 }
 
 span{
